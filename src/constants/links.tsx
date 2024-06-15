@@ -6,7 +6,7 @@ export const socialsLink = {
   twitter: "https://x.com/",
   telegram: "https://t.me/",
   medium: "https://medium.com/@injectionprotocolofficial",
-  email: "mailto:team@pepelubu.meme",
+  email: "mailto:dev@xiasithedog.fun",
 };
 
 export const findUsLink = {

@@ -81,7 +81,7 @@ const AppFooter: React.FC<Props> = () => {
                 href={socialsLink.email}
                 className="w-auto text-white hover:!text-pelu-red mb-2"
               >
-                team@pepelubu.meme
+                dev@xiasithedog.fun
               </Link>
             </div>
 
