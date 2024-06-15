@@ -16,7 +16,7 @@ import { eras } from "@/utils/font";
 import XiasiLogo from "@/assets/xiasi-logo.png";
 
 import "./style.css";
-import { findUsLink } from "@/constants/links";
+import { findUsLink, socialsLink } from "@/constants/links";
 
 interface Props {}
 
@@ -109,7 +109,7 @@ const Navbar: React.FC<Props> = () => {
             <>
               <div className="w-full sm:flex sm:justify-end hidden">
                 <Link
-                  href={findUsLink.uniswap}
+                  href={socialsLink.telegram}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-auto mr-2 md:mr-4"
@@ -125,7 +125,7 @@ const Navbar: React.FC<Props> = () => {
                 </Link>
 
                 <Link
-                  href={findUsLink.coingecko}
+                  href={socialsLink.twitter}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-auto hidden sm:block"
