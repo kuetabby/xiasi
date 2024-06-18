@@ -3,8 +3,8 @@ export const pairAddress = "-";
 
 export const socialsLink = {
   whitepaper: "https://injection-protocol.gitbook.io/injectionprotocol",
-  twitter: "https://x.com/",
-  telegram: "https://t.me/",
+  twitter: "https://x.com/XiasiERC",
+  telegram: "https://t.me/XiasiTheDogPortal",
   medium: "https://medium.com/@injectionprotocolofficial",
   email: "mailto:dev@xiasithedog.fun",
 };
